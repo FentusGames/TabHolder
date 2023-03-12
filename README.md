@@ -1,2 +1,2 @@
 # TabHolder
-Hold tab on a toggle
+Holds tab on a toggle
